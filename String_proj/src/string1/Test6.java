@@ -1,5 +1,5 @@
 package string1;
-
+//program to returns a String object representing the specified char.
 public class Test6 
 {
    public static void main(String[] args)
